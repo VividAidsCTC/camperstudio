@@ -3,6 +3,13 @@ body {
     
    }
 
+     @font-face {
+  font-family: Montserrat;
+  src: url(Montserrat-SemiBoldItalic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
 h1 {
 
 font-size: 20;
@@ -10,8 +17,6 @@ font-family: 'Montserrat', Montserrat, monospace;
 word-spacing: 20px;
 color: rgb(252, 82, 82) ;
 }
-
-  
 
 a{
 color: rgb(212, 131, 84);
