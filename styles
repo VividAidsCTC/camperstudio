@@ -5,8 +5,8 @@ body {
 
 h1 {
 
-font-size: 14;
-font-family: 'Courier New', Courier, monospace;
+font-size: 20;
+font-family: 'Montserrat', Montserrat, monospace;
 word-spacing: 20px;
 color: rgb(252, 82, 82) ;
 }
