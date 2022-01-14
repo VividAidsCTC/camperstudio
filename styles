@@ -5,7 +5,7 @@ body {
 
      @font-face {
   font-family: Montserrat;
-  src: (Montserrat-SemiBoldItalic.ttf);
+  src: url("https://github.com/VividAidsCTC/camperstudio/tree/main/Montserrat/Montserrat-SemiBoldItalic.ttf);
   font-weight: 400;
   font-style: italic;
 }
