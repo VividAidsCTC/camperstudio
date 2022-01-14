@@ -1,7 +1,7 @@
 body {
     background-color:rgb(245, 251, 254);
     
-   }
+   
 
      @font-face {
   font-family: Montserrat;
