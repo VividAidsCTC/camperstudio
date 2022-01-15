@@ -1,11 +1,11 @@
 body {
     background-color:rgb(245, 251, 254);
     
-   
+}
 
      @font-face {
   font-family: Montserrat;
-  src: url("https://github.com/VividAidsCTC/camperstudio/tree/main/Montserrat/Montserrat-SemiBoldItalic.ttf);
+  src: url('Montserrat/Montserrat-SemiBoldItalic.ttf');
   font-weight: 400;
   font-style: italic;
 }
