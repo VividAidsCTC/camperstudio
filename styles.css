@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(245, 251, 254);
+    
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(Montserrat/Montserrat-SemiBoldItalic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1 {
+
+font-size: 20;
+font-family: 'Montserrat', Montserrat, monospace;
+word-spacing: 20px;
+color: rgb(0, 0, 0) ;
+}
+
+a{
+color: rgb(212, 131, 84);
+text-decoration:underline ;
+
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+
+}
+
+.column_small{
+    display: grid;
+    grid-template-columns: 15% 15% 15%;
+
+}
+
+.column_big{
+    display: grid;
+    grid-template-columns: 40%;
+
+}
+
+.camper_logo_center{
+    float: left;
+    width: 40%;
+    height: 450px;
+    padding: 10px;
+}
+
+
+  
+.top_box_titles:after {
+    content: "";
+    display: table;
+    clear: both;
+}
