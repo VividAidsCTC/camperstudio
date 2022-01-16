@@ -34,21 +34,14 @@ text-decoration:underline ;
 
 .column_small{
     display: grid;
-    grid-template-columns: 15% 15% 15%;
-
+    grid-template-columns: 15% 15% 40% 15% 15%;
+    text-align: center;
 }
 
-.column_big{
-    display: grid;
-    grid-template-columns: 40%;
-
-}
-
-.camper_logo_center{
-    float: left;
-    width: 40%;
-    height: 450px;
-    padding: 10px;
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 
